@@ -1,0 +1,52 @@
+/* My Awesome Styles */
+
+/* Diagnostic Styling 
+  * Change Background Color
+  * Outline Elements
+*/
+
+/* * {
+    outline: 1px dotted black;
+}
+ */
+/* Doodle Stage */
+#stage {
+/*   background: #ccc; */
+  height: 300px;
+  width: 600px;
+}
+
+/* SVG Elements */
+/* Check-Check: Correct selectors? */
+#big-heart,
+#small-heart,
+#c,
+#o,
+#first-f,
+#second-f,
+#first-e,
+#second-e {
+/*   fill: red; */
+}
+
+.letter {
+/*   fill: green; */
+}
+
+#first-f,
+#second-f {
+  fill: #462F20;
+}
+
+#first-e,
+#second-e {
+  fill: #DD5F13;
+}
+
+#c,
+#o {
+  fill: #273331;
+}
+
+
+
